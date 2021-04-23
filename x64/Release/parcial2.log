@@ -1,0 +1,15 @@
+﻿  Empleados.cpp
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Empleados.h(203,14): warning C4101: 'resultado': unreferenced local variable
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Empleados.h(202,13): warning C4101: 'fila': unreferenced local variable
+  parcial2.cpp
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Persona.h(3,15): error C2011: 'Persona': 'class' type redefinition
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Persona.h(3): message : see declaration of 'Persona'
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Empleados.h(8,27): error C2504: 'Persona': base class undefined
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Empleados.h(15,150): error C2614: 'Empleados': illegal member initialization: 'Persona' is not a base or member
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Puesto.h(7,24): error C2504: 'Persona': base class undefined
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Puesto.h(10,31): error C2065: 'puesto': undeclared identifier
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Puesto.h(12,30): error C2065: 'puesto': undeclared identifier
+  Persona.cpp
+  Puesto.cpp
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Puesto.h(119,14): warning C4101: 'resultado': unreferenced local variable
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\parcial2\parcial2\Puesto.h(118,13): warning C4101: 'fila': unreferenced local variable
